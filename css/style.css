@@ -1,0 +1,24 @@
+body {
+  /* background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%); */
+  background-color:#e2eeea !important;
+}
+
+#intro {
+  min-height: 100vh;
+}
+
+#work-two {
+  height: 100%vh;
+
+}
+
+.container {
+  --bs-gutter-x: 1.5rem; /* Or whatever your gutter value is */
+  --bs-gutter-y: 0;
+  width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-right: auto;
+  margin-left: auto;
+}
+
